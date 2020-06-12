@@ -6,3 +6,4 @@ for i in range(n):
     c=a
     a=b
     b=c+b
+
